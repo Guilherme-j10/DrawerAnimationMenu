@@ -1,3 +1,3 @@
 # DrawerAnimationMenu
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/Guilherme-j10/DrawerAnimationMenu/blob/main/src/asset/giphy.gif)
